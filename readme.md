@@ -1,5 +1,5 @@
 <!-- [![MasterHead]()](https://aquaoptimas.github.io/AnimeshProfile/) -->
-<h1 align="center">Hi 👋, I'm Animesh Maiti</h1>
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <img align="right" alt="Coding" width="400" src="imagegif.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
 
