@@ -7,16 +7,16 @@
 
 - 💬 Ask me about **React,DSA(c)**
 
-- 📫 How to reach me **maitianimesh08@gmail.com**
+- 📫 How to reach me **ankitkrb4644@gmail.com**
 
 - ⚡ Fun fact **I am a failure**
 
-- 👨‍💻 All of my projects are available at [https://animeshmaiti.github.io/AnimeshPortfolio/](https://animeshmaiti.github.io/AnimeshPortfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/ankitkrb4644]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/animeshmaiti7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="animeshmaiti7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/animesh-maiti-3a2164171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animesh maiti" height="30" width="40" /></a>
+<a href="https://twitter.com/animeshmaiti7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitkrb07" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankitkrb07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit kumar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18105925/animeshmaiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="animeshmaiti" height="30" width="40" /></a>
 <a href="https://m.facebook.com/animesh.maiti.566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="animesh maiti" height="30" width="40" /></a>
 <a href="https://instagram.com/maiti_animesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maiti_animesh" height="30" width="40" /></a>
@@ -40,7 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ankitkrb4644&theme=radical" alt="" /></p>
 
-![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=ankitkrb4644&show_icons=true&theme=radical)
+![Ankit Kumar's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=ankitkrb4644&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-animeshmaiti.vercel.app/api/top-langs?username=ankitkrb4644&langs_count=12&show_icons=true&theme=highcontrast&locale=en&layout=compact)
 
