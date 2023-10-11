@@ -1,6 +1,6 @@
 <!-- [![MasterHead]()](https://aquaoptimas.github.io/AnimeshProfile/) -->
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<img align="right" alt="Coding" width="400" src="imagegif.gif">
+<img align="right" alt="Coding" width="40" src="coder.jpeg">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animeshmaiti&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
