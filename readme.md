@@ -37,12 +37,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ankitkrb4644&theme=radical" alt="" /></p>
 
-![Ankit Kumar's GitHub stats](https://github-readme-stats-ankitkumar.vercel.app/api?username=ankitkrb4644&show_icons=true&theme=radical)
+![Ankit Kumar's GitHub stats](https://github-readme-stats-animeshmaity.vercel.app/api?username=ankitkrb4644&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-ankitkumar.vercel.app/api/top-langs?username=ankitkrb4644&langs_count=12&show_icons=true&theme=highcontrast&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats-animesh.vercel.app/api/top-langs?username=ankitkrb4644&langs_count=12&show_icons=true&theme=highcontrast&locale=en&layout=compact)
 
 <!-- ## ✨ GitHub Followers -->
 <!--ACTION_START_FLAG:github-followers-->
 <!--ACTION_END_FLAG:github-followers-->
 
-![Github Activity Graph](https://ankit-activity-graph.vercel.app/graph?username=ankitkrb4644&theme=react-dark&hide_border=true&area=true)
+![Github Activity Graph](https://animesh-activity-graph.vercel.app/graph?username=ankitkrb4644&theme=react-dark&hide_border=true&area=true)
