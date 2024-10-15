@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animeshmaiti&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-- 💬 Ask me about **React,DSA(Java)**
+- 💬 Ask me about **DSA(Java),MySQL,Figma**
 
 - 📫 How to reach me **ankitkrb4644@gmail.com**
 
